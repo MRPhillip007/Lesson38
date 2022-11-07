@@ -1,0 +1,12 @@
+C:\BettrootCourses\AdminPanel\AdminPanel.Entities\bin\Debug\net6.0\AdminPanel.Entities.deps.json
+C:\BettrootCourses\AdminPanel\AdminPanel.Entities\bin\Debug\net6.0\AdminPanel.Entities.dll
+C:\BettrootCourses\AdminPanel\AdminPanel.Entities\bin\Debug\net6.0\AdminPanel.Entities.pdb
+C:\BettrootCourses\AdminPanel\AdminPanel.Entities\obj\Debug\net6.0\AdminPanel.Entities.csproj.AssemblyReference.cache
+C:\BettrootCourses\AdminPanel\AdminPanel.Entities\obj\Debug\net6.0\AdminPanel.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\BettrootCourses\AdminPanel\AdminPanel.Entities\obj\Debug\net6.0\AdminPanel.Entities.AssemblyInfoInputs.cache
+C:\BettrootCourses\AdminPanel\AdminPanel.Entities\obj\Debug\net6.0\AdminPanel.Entities.AssemblyInfo.cs
+C:\BettrootCourses\AdminPanel\AdminPanel.Entities\obj\Debug\net6.0\AdminPanel.Entities.csproj.CoreCompileInputs.cache
+C:\BettrootCourses\AdminPanel\AdminPanel.Entities\obj\Debug\net6.0\AdminPanel.Entities.dll
+C:\BettrootCourses\AdminPanel\AdminPanel.Entities\obj\Debug\net6.0\refint\AdminPanel.Entities.dll
+C:\BettrootCourses\AdminPanel\AdminPanel.Entities\obj\Debug\net6.0\AdminPanel.Entities.pdb
+C:\BettrootCourses\AdminPanel\AdminPanel.Entities\obj\Debug\net6.0\ref\AdminPanel.Entities.dll

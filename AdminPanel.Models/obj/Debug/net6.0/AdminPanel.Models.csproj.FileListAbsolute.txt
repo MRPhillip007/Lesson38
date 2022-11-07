@@ -1,0 +1,12 @@
+C:\BettrootCourses\AdminPanel\AdminPanel.Models\bin\Debug\net6.0\AdminPanel.Models.deps.json
+C:\BettrootCourses\AdminPanel\AdminPanel.Models\bin\Debug\net6.0\AdminPanel.Models.dll
+C:\BettrootCourses\AdminPanel\AdminPanel.Models\bin\Debug\net6.0\AdminPanel.Models.pdb
+C:\BettrootCourses\AdminPanel\AdminPanel.Models\obj\Debug\net6.0\AdminPanel.Models.csproj.AssemblyReference.cache
+C:\BettrootCourses\AdminPanel\AdminPanel.Models\obj\Debug\net6.0\AdminPanel.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\BettrootCourses\AdminPanel\AdminPanel.Models\obj\Debug\net6.0\AdminPanel.Models.AssemblyInfoInputs.cache
+C:\BettrootCourses\AdminPanel\AdminPanel.Models\obj\Debug\net6.0\AdminPanel.Models.AssemblyInfo.cs
+C:\BettrootCourses\AdminPanel\AdminPanel.Models\obj\Debug\net6.0\AdminPanel.Models.csproj.CoreCompileInputs.cache
+C:\BettrootCourses\AdminPanel\AdminPanel.Models\obj\Debug\net6.0\AdminPanel.Models.dll
+C:\BettrootCourses\AdminPanel\AdminPanel.Models\obj\Debug\net6.0\refint\AdminPanel.Models.dll
+C:\BettrootCourses\AdminPanel\AdminPanel.Models\obj\Debug\net6.0\AdminPanel.Models.pdb
+C:\BettrootCourses\AdminPanel\AdminPanel.Models\obj\Debug\net6.0\ref\AdminPanel.Models.dll

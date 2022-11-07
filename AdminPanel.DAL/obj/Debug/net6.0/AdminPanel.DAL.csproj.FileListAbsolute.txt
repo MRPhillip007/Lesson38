@@ -1,0 +1,15 @@
+C:\BettrootCourses\AdminPanel\AdminPanel.DAL\bin\Debug\net6.0\AdminPanel.DAL.deps.json
+C:\BettrootCourses\AdminPanel\AdminPanel.DAL\bin\Debug\net6.0\AdminPanel.DAL.dll
+C:\BettrootCourses\AdminPanel\AdminPanel.DAL\bin\Debug\net6.0\AdminPanel.DAL.pdb
+C:\BettrootCourses\AdminPanel\AdminPanel.DAL\bin\Debug\net6.0\AdminPanel.Entities.dll
+C:\BettrootCourses\AdminPanel\AdminPanel.DAL\bin\Debug\net6.0\AdminPanel.Entities.pdb
+C:\BettrootCourses\AdminPanel\AdminPanel.DAL\obj\Debug\net6.0\AdminPanel.DAL.csproj.AssemblyReference.cache
+C:\BettrootCourses\AdminPanel\AdminPanel.DAL\obj\Debug\net6.0\AdminPanel.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\BettrootCourses\AdminPanel\AdminPanel.DAL\obj\Debug\net6.0\AdminPanel.DAL.AssemblyInfoInputs.cache
+C:\BettrootCourses\AdminPanel\AdminPanel.DAL\obj\Debug\net6.0\AdminPanel.DAL.AssemblyInfo.cs
+C:\BettrootCourses\AdminPanel\AdminPanel.DAL\obj\Debug\net6.0\AdminPanel.DAL.csproj.CoreCompileInputs.cache
+C:\BettrootCourses\AdminPanel\AdminPanel.DAL\obj\Debug\net6.0\AdminPanel.DAL.csproj.CopyComplete
+C:\BettrootCourses\AdminPanel\AdminPanel.DAL\obj\Debug\net6.0\AdminPanel.DAL.dll
+C:\BettrootCourses\AdminPanel\AdminPanel.DAL\obj\Debug\net6.0\refint\AdminPanel.DAL.dll
+C:\BettrootCourses\AdminPanel\AdminPanel.DAL\obj\Debug\net6.0\AdminPanel.DAL.pdb
+C:\BettrootCourses\AdminPanel\AdminPanel.DAL\obj\Debug\net6.0\ref\AdminPanel.DAL.dll
